@@ -1,0 +1,6 @@
+server {
+  listen 80;
+
+  root /home/azureuser/cis3760-104-online/sprint-4/build;
+  index index.html;
+}
